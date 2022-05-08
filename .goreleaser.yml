@@ -99,7 +99,6 @@ archives:
     - goos: windows
       format: zip
     wrap_in_directory: "true"
-    project_name: twitch-cli
     files:
       - docs/*
       - LICENSE
